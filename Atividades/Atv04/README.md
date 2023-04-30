@@ -1,4 +1,4 @@
-# Ativade 03
+# Ativade 04
 - O código a seguir, recebe três valores referentes aos gastos, calcula o gasto toal e exibe a informação.
 
 ## Aluno
