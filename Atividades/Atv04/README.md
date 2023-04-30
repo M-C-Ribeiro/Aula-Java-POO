@@ -1,5 +1,5 @@
 # Ativade 04
-- O código a seguir, recebe três valores referentes aos gastos, calcula o gasto toal e exibe a informação.
+- O código a seguir, recebe três valores referentes aos gastos, calcula o gasto total e exibe a informação.
 
 ## Aluno
 - Mateus Costa Ribeiro
