@@ -1,4 +1,4 @@
-# Ativade 01
+# Ativade 02
 - O código a seguir, recebe dois inteiro e realiza o cálculo de exemplo de uma folha de pagamento.
 
 ## Aluno
