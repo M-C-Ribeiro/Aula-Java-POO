@@ -6,7 +6,7 @@
 <hr>
 
 ## Código
-
+```
 import java.util.*; // importando biblioteca
 
 public class Atv02 {
@@ -24,3 +24,4 @@ public class Atv02 {
 		System.out.println("Programa de exemplo de folha de pagamento");
 	}
 }
+```
