@@ -6,7 +6,7 @@
 <hr>
 
 ## Código
-
+```
 import javax.swing.JOptionPane; // importando a biblioteca 
 
 public class Atv03 {
@@ -28,3 +28,4 @@ public class Atv03 {
 		}
 	}
 }
+```
