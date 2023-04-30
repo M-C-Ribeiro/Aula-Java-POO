@@ -6,7 +6,7 @@
 <hr>
 
 ## Código
-
+```
 import java.util.*; // importando biblioteca
 
 public class Atv01 {
@@ -32,3 +32,4 @@ public class Atv01 {
         sc.close(); // encerra o objeto scanner
     }
 }
+```
