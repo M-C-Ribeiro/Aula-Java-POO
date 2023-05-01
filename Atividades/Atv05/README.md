@@ -14,12 +14,9 @@ public class Atv05 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in); // criando objeto scanner
 		
-		System.out.println("Informe o gasto de Janeiro:");
-		float gastosJaneiro = sc.nextFloat(); // inicializando variável
-		System.out.println("Informe o gasto de Fevereiro:");
-		float gastosFevereiro = sc.nextFloat(); // inicializando variável
-		System.out.println("Informe o gasto de Março:");
-		float gastosMarco = sc.nextFloat(); // inicializando variável
+		float gastosJaneiro = (float) 30000; // inicializando variável
+		float gastosFevereiro = (float) 33030.77; // inicializando variável
+		float gastosMarco = (float) 23899.01; // inicializando variável
 		
 		float gastosTrimestre = gastosJaneiro + gastosFevereiro + gastosMarco; // inicializando variável com a soma dos gastos
 		System.out.printf("O gasto total do trimestre foi: R$%.2f", gastosTrimestre); // mensagem informativa
