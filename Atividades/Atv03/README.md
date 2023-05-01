@@ -19,8 +19,10 @@ public class Atv03 {
 			nota1 = Float.parseFloat(aux); // converte para um float
 			aux = JOptionPane.showInputDialog("Nota da segunda prova: "); // recebe a resposta em formato string
 			nota2 = Float.parseFloat(aux); // converte para um float
+			aux = JOptionPane.showInputDialog("Nota da segunda prova: "); // recebe a resposta em formato string
+			nota3 = Float.parseFloat(aux); // converte para um float
 
-			media = (nota1 + nota2)/ 2; // atribuição do cálculo
+			media = (nota1 + nota2 + nota3)/ 3; // atribuição do cálculo
 
 			JOptionPane.showMessageDialog(null, "Média final é: " + media); // mensagem informativa
 		} catch (NumberFormatException e) {
